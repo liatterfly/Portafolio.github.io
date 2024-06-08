@@ -24,10 +24,6 @@
     /* suavizando la navegación */
     scroll-behavior: smooth;
 }
-body{
-    font-family: "Abril Fatface", serif;
-    font-family: "Radio Canada", sans-serif;
-}
 .dark-theme{
     --categoria-text: #4D3E32;
     --Body-text-light: #F9EDE2;            
