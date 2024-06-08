@@ -60,7 +60,7 @@ function activarModoOscuro() {
     }
 
     // Cambiar el icono de la luna
-    document.getElementById('icon').src = '/Recursos/sun.png';
+    document.getElementById('icon').src = 'Recursos/sun.png';
 }
 
 // Función para desactivar el modo oscuro
@@ -124,7 +124,7 @@ function desactivarModoOscuro() {
     }
 
     // Cambiar el icono de la luna de vuelta a su icono original
-    document.getElementById('icon').src = '/Recursos/moon.png';
+    document.getElementById('icon').src = 'Recursos/moon.png';
 }
 
 // Evento click en el icono de la luna para alternar entre modo oscuro y modo claro
